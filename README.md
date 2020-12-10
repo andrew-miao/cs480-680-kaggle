@@ -5,7 +5,7 @@ In this task, I was inspired by [Transformer](https://arxiv.org/pdf/1706.03762.p
 
 ![SimpleTransformer](./simpletransformer.png)
 
-The BOP is Begining of Prediction.
+The BOP is Beginning of Prediction.
 
 The another type of model also combined noisy image and text. The following figure displays the structure of this type of model.
 
